@@ -2,7 +2,7 @@
 
 ## Simple Interest Calculator
 
-A calculator that calculates simple interest given principal, annual rate of interest.
+A calculator that calculates simple interest given principal, annual rate of interest and give an accurate answer.
 
 ```
 Input:
